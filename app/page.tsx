@@ -20,8 +20,7 @@ export default function Page() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS.
+        Hello! I love peanuts
         </p>
         <p>
           Nextfolio has everything you need for a portfolio: MDX blog, SEO, RSS,
