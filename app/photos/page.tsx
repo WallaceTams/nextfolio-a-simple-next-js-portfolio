@@ -44,6 +44,13 @@ export default function Photos() {
             alt: "Colosseum",
             href: "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-3cyBR1rIJmA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
           },
+          {
+            src: "/photos/photo6.jpg",
+            alt: "Colosseum",
+            href: "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-3cyBR1rIJmA?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash",
+          },
+
+
         ]}
       />
 
@@ -66,6 +73,7 @@ export default function Photos() {
           { src: "/photos/photo4.jpg", alt: "Eiffel Tower" },
           { src: "/photos/photo5.jpg", alt: "Taj Mahal" },
           { src: "/photos/photo6.jpg", alt: "Colosseum" },
+          { src: "/photos/photo7.jpg", alt: "A Beautiful Tree" },
         ]}
       />
     </section>

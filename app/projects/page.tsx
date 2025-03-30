@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { projects } from "./project-data";
 
 export const metadata: Metadata = {
-  title: "Projects",
+  title: "ProjectsHello",
   description: "Nextfolio Projects",
 };
 

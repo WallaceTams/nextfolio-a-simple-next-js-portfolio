@@ -18,4 +18,10 @@ export const projects: Project[] = [
     description: "Open source AI education resources",
     url: "https://opendeeplearning.xyz/",
   },
+  {
+    title: "Table-like Tree",
+    year: 7049,
+    description: "Very good source for tree-farming",
+    url: "https://opendeeplearning.xyz/",
+  },
 ];
